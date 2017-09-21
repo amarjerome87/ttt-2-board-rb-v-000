@@ -1,2 +1,2 @@
-board = ""
-board = array.new
+board = array.new 
+
